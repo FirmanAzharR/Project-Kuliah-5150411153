@@ -1,0 +1,1 @@
+<?php $data->delete_mapel_kelas($_GET['id']) ?>

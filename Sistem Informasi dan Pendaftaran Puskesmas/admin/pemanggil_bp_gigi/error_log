@@ -1,0 +1,11 @@
+[24-Sep-2020 01:23:31 Asia/Jakarta] PHP Warning:  include(proses/panggilan_antrian.php): failed to open stream: No such file or directory in /home/sipkesm1/public_html/admin/pemanggil_bp_gigi/pemanggilan_bp_gigi.php on line 3
+[24-Sep-2020 01:23:31 Asia/Jakarta] PHP Warning:  include(proses/panggilan_antrian.php): failed to open stream: No such file or directory in /home/sipkesm1/public_html/admin/pemanggil_bp_gigi/pemanggilan_bp_gigi.php on line 3
+[24-Sep-2020 01:23:31 Asia/Jakarta] PHP Warning:  include(): Failed opening 'proses/panggilan_antrian.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/sipkesm1/public_html/admin/pemanggil_bp_gigi/pemanggilan_bp_gigi.php on line 3
+[24-Sep-2020 01:23:31 Asia/Jakarta] PHP Notice:  Undefined variable: display in /home/sipkesm1/public_html/admin/pemanggil_bp_gigi/pemanggilan_bp_gigi.php on line 23
+[24-Sep-2020 01:23:31 Asia/Jakarta] PHP Notice:  Undefined variable: display in /home/sipkesm1/public_html/admin/pemanggil_bp_gigi/pemanggilan_bp_gigi.php on line 71
+[24-Sep-2020 01:23:31 Asia/Jakarta] PHP Notice:  Undefined variable: display in /home/sipkesm1/public_html/admin/pemanggil_bp_gigi/pemanggilan_bp_gigi.php on line 80
+[24-Sep-2020 01:23:31 Asia/Jakarta] PHP Notice:  Undefined variable: kalimatTerbilang in /home/sipkesm1/public_html/admin/pemanggil_bp_gigi/pemanggilan_bp_gigi.php on line 87
+[24-Sep-2020 01:23:31 Asia/Jakarta] PHP Notice:  Undefined variable: kalimatTerbilang in /home/sipkesm1/public_html/admin/pemanggil_bp_gigi/pemanggilan_bp_gigi.php on line 89
+[24-Sep-2020 01:24:21 Asia/Jakarta] PHP Notice:  Undefined variable: display in /home/sipkesm1/public_html/admin/pemanggil_bp_gigi/tunda.php on line 41
+[24-Sep-2020 01:24:23 Asia/Jakarta] PHP Notice:  Undefined variable: display in /home/sipkesm1/public_html/admin/pemanggil_bp_gigi/tunda.php on line 41
+[24-Sep-2020 01:24:33 Asia/Jakarta] PHP Notice:  Undefined variable: display in /home/sipkesm1/public_html/admin/pemanggil_bp_gigi/tunda.php on line 41
